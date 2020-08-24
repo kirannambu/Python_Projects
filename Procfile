@@ -1,1 +1,1 @@
-web gunicorn --pythonpath src app:firstPythonGit
+web gunicorn --pythonpath src firstPythonGit:app
